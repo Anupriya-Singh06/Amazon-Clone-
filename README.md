@@ -7,13 +7,19 @@ This project replicates the layout and basic design of Amazon’s landing page f
 
 ## 🚀 Live Preview
 
-Run locally by opening:http://localhost:3000/index.html
+Run locally by opening:
+
+
+index.html
 
 
 Or using Live Server:
-http://127.0.0.1:3000/index.html
 
 
+http://localhost:3000/
+
+
+> ⚠️ This project runs locally. Deploy it using GitHub Pages or Netlify for a public live link.
 
 ---
 
@@ -39,6 +45,8 @@ http://127.0.0.1:3000/index.html
 ---
 
 ## 📂 Project Structure
+
+
 Amazon-Clone/
 │
 ├── index.html
@@ -53,6 +61,7 @@ Amazon-Clone/
 ├── box6_image.jpg
 ├── box7_image.jpg
 ├── box8_image.jpg
+├── screenshot.png
 └── README.md
 
 
@@ -60,10 +69,7 @@ Amazon-Clone/
 
 ## 📸 Screenshot
 
-
 ![Amazon Clone Screenshot](screenshot.png)
-
-
 
 ---
 
