@@ -6,9 +6,14 @@ This project replicates the layout and basic design of Amazon’s landing page f
 ---
 
 ## 🚀 Live Preview
+🔗 **Live Demo:**  
+https://amazon-clone-anupriya.netlify.app
 
-Run locally by opening:
+---
 
+## 💻 Run Locally
+
+Open the project by running:
 
 index.html
 
